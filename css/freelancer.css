@@ -322,7 +322,7 @@ footer .footer-below {
 .btn-outline {
   color: white;
   font-size: 20px;
-  border: solid 2px white;
+  // border: solid 2px white;
   background: transparent;
   transition: all 0.3s ease-in-out;
   margin-top: 35px;
