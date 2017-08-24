@@ -114,6 +114,13 @@ header .intro-text .skills {
     font-weight: 100;
     font-family: Helvetica;
   }
+
+.img-template-1 {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
 }
 .navbar-custom {
   background: #333333;
